@@ -6,7 +6,7 @@ contact:
   label: Colin Batchelor
 description: CHMO, the chemical methods ontology, describes methods used to
 domain: health
-homepage: http://code.google.com/p/rsc-cmo/
+homepage: https://github.com/rsc-ontologies/rsc-cmo
 products:
   - id: chmo.owl
 title: Chemical Methods Ontology
